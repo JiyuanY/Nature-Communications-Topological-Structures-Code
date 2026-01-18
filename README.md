@@ -1,2 +1,8 @@
-PSTO-data.zip This is database of our Deep Potential for modeling topological structures.
-MD-input.zip This files include MD simulations (lammps) input.
+1.PSTO-data.zip 
+This is database of our Deep Potential for modeling topological structures.
+
+2.MD-input.zip 
+This file includes MD simulations (lammps) input.
+
+3.DFT-calculations.zip
+This file includes DFT calculations input.
